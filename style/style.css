@@ -345,13 +345,4 @@ table tr td
   margin: 0px 2px;
   cursor: pointer;
 }
-
-.button button1 {
-  background-color: white; 
-  color: red; 
-  border: 2px solid white;
-}
-.button button1:hover {
-  background-color: red;
-  color: white;
-}
+.button1 {background-color: #4CAF50;}
