@@ -346,12 +346,12 @@ table tr td
   cursor: pointer;
 }
 
-.button1 {
+.button button1 {
   background-color: white; 
   color: red; 
   border: 2px solid white;
 }
-.button1:hover {
+.button button1:hover {
   background-color: red;
   color: white;
 }
