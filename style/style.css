@@ -333,3 +333,25 @@ table tr td
 { background: #E5E5DB;
   color: #000000;
   border-top: 1px solid #FFF;}
+
+.button {
+  border: none;
+  color: white;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0px 2px;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: red; 
+  border: 2px solid white;
+}
+.button1:hover {
+  background-color: red;
+  color: white;
+}
