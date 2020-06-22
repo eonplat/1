@@ -347,11 +347,12 @@ table tr td
 }
 .button1 {
   background-color: white; 
-  color: black; 
-  border: 2px solid #4CAF50;
+  color: red; 
+  border: 2px solid white;
 }
+
 .button1:hover {
-  background-color: #4CAF50;
+  background-color: red;
   color: white;
 }
 
